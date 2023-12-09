@@ -37,11 +37,13 @@
 <p align="center" ><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrinara&show_icons=true&locale=en&layout=compact&theme=blux" alt="sabrinara" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabrinara&show_icons=true&locale=en&theme=blux"" alt="sabrinara" width="400"/></p>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sabrinara&theme=prussian&hide_border=false&include_all_commits=true&count_private=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sabrinara&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinara&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sabrinara&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sabrinara&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinara&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+ </div> 
 # 〽️Summary of My Profile
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrinara&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabrinara&theme=transparent)
@@ -59,5 +61,17 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sabrinara&limit=5&theme=nord&combine_all_yearly_contributions=true)
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+
+# 📊 GitHub Stats:
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sabrinara&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
