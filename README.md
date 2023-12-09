@@ -36,7 +36,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sabrinara&theme=blux&border_radius=5&background=45%2C000000%2C090757&stroke=1B1CEB&fire=EB0F01" alt="GitHub Streak"  width="600"/></a>
 </div>
 
-<div align="center" width="400" height="150">
+<div align="center" width="400" height="200" margin-top="30">
 
 ![](https://github-readme-stats.vercel.app/api?username=sabrinara&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinara&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
