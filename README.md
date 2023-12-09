@@ -1,5 +1,7 @@
 
-![Uploading git_cover.gif…]()
+<a href="https://www.linkedin.com/in/sabrina-rashid-7389492a3/">
+<img src="https://raw.githubusercontent.com/sabrinara/sabrinara/main/git_cover.jpg" />
+</a>
 
 <h1 align="center">Hi 👋, I'm Sabrina Rashid</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
