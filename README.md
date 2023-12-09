@@ -35,7 +35,10 @@
 
 # 📊 GitHub Stats:
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sabrinara&theme=blux&border_radius=5&background=45%2C000000%2C090757&stroke=1B1CEB&fire=EB0F01&align=center" alt="GitHub Streak" /></a>
+<div="center">
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sabrinara&theme=blux&border_radius=5&background=45%2C000000%2C090757&stroke=1B1CEB&fire=EB0F01" alt="GitHub Streak"  width="700"/></a>
+</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=sabrinara&theme=prussian&hide_border=false&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sabrinara&theme=prussian&hide_border=false)<br/>
