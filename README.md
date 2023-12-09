@@ -38,7 +38,7 @@
 
 <div align="center" width="500">
 
-![](https://github-readme-stats.vercel.app/api?username=sabrinara&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sabrinara&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinara&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
  </div> 
