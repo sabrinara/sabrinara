@@ -1,7 +1,9 @@
-
-<a href="https://www.linkedin.com/in/sabrina-rashid-7389492a3/">
  
 ![](https://i.ibb.co/x72Mps5/git-cover.gif)
+
+
+<a href="https://www.linkedin.com/in/sabrina-rashid-7389492a3/">
+
 
 
 </a>
