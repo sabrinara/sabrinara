@@ -1,15 +1,4 @@
- 
-
-
-
-<a href="https://www.linkedin.com/in/sabrina-rashid-7389492a3/">
-
-<p align="center">
-  <img src="https://i.ibb.co/x72Mps5/git-cover.gif" alt="Sabrina Rashid Banner">
-</p>
-
-</a>
-
+![git_cover](https://github.com/sabrinara/sabrinara/assets/54745113/29583da5-644b-481c-989e-42c1b230a9f3)
 
 <h1 align="center">Hi 👋, I'm Sabrina Rashid</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
