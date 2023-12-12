@@ -1,8 +1,9 @@
----
-[![git_cover](https://github.com/sabrinara/sabrinara/assets/54745113/29583da5-644b-481c-989e-42c1b230a9f3)](https://i.ibb.co/x72Mps5/git-cover.gif )
+
+![git_cover](https://github.com/sabrinara/sabrinara/assets/54745113/cc2fe216-afd9-4783-ac05-40300b2a9b66)
 
 <h1 align="center">Hi 👋, I'm Sabrina Rashid</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+                                                                     
 
 
 ---
