@@ -1,13 +1,14 @@
 
 ![git_cover](https://github.com/sabrinara/sabrinara/assets/54745113/cc2fe216-afd9-4783-ac05-40300b2a9b66)
 
+
+
 <h1 align="center">Hi 👋, I'm Sabrina Rashid</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
                                                                      
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabrinara&label=Profile%20views&color=0e75b6&style=flat" alt="sabrinara" /> </p>
 
-
-[![](https://visitcount.itsvg.in/api?id=sabrinara&icon=9&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 
@@ -71,6 +72,11 @@
 </div>
 
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=sabrinara&icon=8&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
