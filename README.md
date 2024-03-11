@@ -12,15 +12,15 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **MERN Stack Project.**
+- 🔭 I’m currently working on **Django and MERN Stack Project.**
 
-- 🌱 I’m currently learning **Django.**
+- 🌱 I’m currently learning **Django REST Framework.**
 
-- 👯 I’m looking to collaborate on **MERN Stack Project**
+- 👯 I’m looking to collaborate on **Full Stack Project**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Django and MERN Stack**
 
-- 📫 How to reach me **saashid18@gmail.com**
+- 📫 How to reach me **sabrina.rashid.sara@gmail.com**
 
 
 <p align="left">
