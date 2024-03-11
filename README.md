@@ -1,6 +1,7 @@
 
 ![git_cover](https://github.com/sabrinara/sabrinara/assets/54745113/cc2fe216-afd9-4783-ac05-40300b2a9b66)
 
+![git_cover](https://github.com/sabrinara/sabrinara/assets/54745113/11068fae-4576-4f76-b39e-109abc12afef)
 
 
 <h1 align="center">Hi 👋, I'm Sabrina Rashid</h1>
