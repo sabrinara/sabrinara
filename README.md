@@ -1,8 +1,4 @@
 
-![git_cover](https://github.com/sabrinara/sabrinara/assets/54745113/ad13656f-4ac7-4ff3-a7e1-919a06807558)
-
-
-
 ![git_cover](https://github.com/sabrinara/sabrinara/assets/54745113/98ffa59c-06c9-4457-b2e2-84a88a823e93)
 
 
