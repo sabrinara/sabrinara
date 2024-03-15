@@ -3,6 +3,7 @@
 
 
 
+![git_cover](https://github.com/sabrinara/sabrinara/assets/54745113/98ffa59c-06c9-4457-b2e2-84a88a823e93)
 
 
 <h1 align="center">Hi 👋, I'm Sabrina Rashid</h1>
