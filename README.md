@@ -3,7 +3,7 @@
 
 ![git_cover](https://github.com/sabrinara/sabrinara/assets/54745113/10b8cc5c-e51c-4e6b-b4ec-917befe1a3ea)
 
-<h1 align="center">Hi 👋, I'm Sabrina Rashid</h1>
+<h1 align="center">Hi 👋 I'm Sabrina Rashid</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
                                                                      
 
