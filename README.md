@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="400" src="https://github.com/sabrinara/sabrinara/blob/main/gitprofile.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/sabrinara/sabrinara/blob/main/git.gif">
 
 - 🔭 I’m currently working on **Django and MERN Stack Project.**
 
