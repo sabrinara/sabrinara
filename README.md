@@ -4,7 +4,7 @@
 ![git_cover](https://github.com/sabrinara/sabrinara/assets/54745113/10b8cc5c-e51c-4e6b-b4ec-917befe1a3ea)
 
 <h1 align="center">Hi! 👋 I'm Sabrina Rashid.</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack developer from Bangladesh.</h3>
                                                                      
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabrinara&label=Profile%20views&color=0e75b6&style=flat" alt="sabrinara" /> </p>
