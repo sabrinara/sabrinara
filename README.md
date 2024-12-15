@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/sabrinara/sabrinara/assets/54745113/10b8cc5c-e51c-4e6b-b4ec-917befe1a3ea" alt="Cover" style="height: 500px; width: auto;">
+<img src="https://github.com/sabrinara/sabrinara/assets/54745113/10b8cc5c-e51c-4e6b-b4ec-917befe1a3ea" alt="Cover" style="height: 300px; width: auto;">
 
 
 <h1 align="center">Hi! 👋 I'm Sabrina Rashid.</h1>
